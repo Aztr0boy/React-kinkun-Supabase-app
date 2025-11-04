@@ -3,7 +3,7 @@ import { BrowserRouter,Route,Routes } from 'react-router-dom'
 import Home from './Pages/Home'
 import Addkinkun from './Pages/Addkinkun'
 import Editkinkun from './Pages/Editkinkun'
-import Showkinkun from './Pages/Showkinkun'
+import Showkinkun from './Pages/Showallkinkun'
 
 export default function App() {
   return (
@@ -13,7 +13,7 @@ export default function App() {
         <Route path = '/' element = {<Home />} />
         <Route path = '/Addkinkun' element = {<Addkinkun />} />
         <Route path = '/Editkinkun' element = {<Editkinkun />} />
-        <Route path = '/Showkinkun' element = {<Showkinkun />} />
+        <Route path = '/Showallkinkun' element = {<Showkinkun />} />
     </Routes>
     </BrowserRouter>
     </>
