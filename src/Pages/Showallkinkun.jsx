@@ -1,6 +1,6 @@
 import React from "react";
 import food from "./../assets/food.png";
-import Footer from "./../components/Footer";
+import Footer from "../Components/Footer";
 import { Link } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { supabase } from "./../lib/supabaseClient";

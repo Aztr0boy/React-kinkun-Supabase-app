@@ -5,7 +5,7 @@ import { FaXTwitter } from "react-icons/fa6";
 import { FaTwitch } from "react-icons/fa";
 import { FaSteam } from "react-icons/fa";
 import { SiValorant } from "react-icons/si";
-import Footer from '../components/Footer';
+import Footer from '../Components/Footer';
 import { useNavigate } from 'react-router-dom';
 import Swal from 'sweetalert2';
 
