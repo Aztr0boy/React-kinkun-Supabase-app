@@ -1,6 +1,6 @@
 import React from "react";
 import Footer from "../Components/Footer";
-import food from "./../assets/food.png";
+import Food from "../assets/Food.png";
 import { Link } from "react-router-dom";
 import { useState } from "react";
 import Swal from "sweetalert2"
