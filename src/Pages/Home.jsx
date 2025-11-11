@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Food from '../assets/Food.png'
+import Food from "../assets/Food.png";
 import { FaFacebook } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaTwitch } from "react-icons/fa";

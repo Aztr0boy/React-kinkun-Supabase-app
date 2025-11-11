@@ -1,5 +1,5 @@
 import React from "react";
-import Food from "./../assets/food.png";
+import Food from "../assets/Food.png";
 import Footer from "../Components/Footer";
 import { Link } from "react-router-dom";
 import { useEffect, useState } from "react";
